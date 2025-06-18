@@ -36,8 +36,13 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: |
-      test
+    text: >
+      Etiam volutpat turpis a nulla posuere, sit amet varius mauris mollis.
+      Phasellus iaculis sagittis blandit. Pellentesque et diam a risus eleifend
+      cursus quis non sapien. Aliquam ullamcorper mattis lorem eu laoreet.
+      Praesent egestas eget augue ac viverra. Etiam eu enim enim. Fusce lorem
+      nisl, dapibus placerat augue et, tincidunt mattis velit. Etiam sed laoreet
+      nunc.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
