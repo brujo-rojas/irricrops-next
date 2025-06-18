@@ -4,7 +4,7 @@ title: 'Irricrops '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/wallhaven-7pkkre.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
