@@ -37,7 +37,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: call action
         altText: ''
         url: 'https://www.instagram.com/irricrops/?hl=es'
         showIcon: false
