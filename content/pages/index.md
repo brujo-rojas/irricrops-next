@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: 'Irricrops '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
