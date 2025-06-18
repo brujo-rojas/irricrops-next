@@ -17,12 +17,7 @@ sections:
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
       efficitur ante nisl, id sollicitudin est lacinia sit amet. Pellentesque
-      efficitur lorem eu eros tempus, vel mattis diam pharetra. Etiam volutpat
-      turpis a nulla posuere, sit amet varius mauris mollis. Phasellus iaculis
-      sagittis blandit. Pellentesque et diam a risus eleifend cursus quis non
-      sapien. Aliquam ullamcorper mattis lorem eu laoreet. Praesent egestas eget
-      augue ac viverra. Etiam eu enim enim. Fusce lorem nisl, dapibus placerat
-      augue et, tincidunt mattis velit. Etiam sed laoreet nunc.
+      efficitur lorem eu eros tempus, vel mattis diam pharetra. 
     styles:
       self:
         height: auto
