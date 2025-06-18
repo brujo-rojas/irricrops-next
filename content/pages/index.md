@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/wallhaven-m3m57k.jpg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
