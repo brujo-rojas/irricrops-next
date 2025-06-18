@@ -52,6 +52,12 @@ sections:
       Praesent egestas eget augue ac viverra. Etiam eu enim enim. Fusce lorem
       nisl, dapibus placerat augue et, tincidunt mattis velit. Etiam sed laoreet
       nunc.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
