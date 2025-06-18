@@ -40,7 +40,7 @@ sections:
         label: call action
         altText: ''
         url: 'https://www.instagram.com/irricrops/?hl=es'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
