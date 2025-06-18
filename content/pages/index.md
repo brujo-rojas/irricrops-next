@@ -35,7 +35,16 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://www.instagram.com/irricrops/?hl=es'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: >
       Etiam volutpat turpis a nulla posuere, sit amet varius mauris mollis.
       Phasellus iaculis sagittis blandit. Pellentesque et diam a risus eleifend
