@@ -79,6 +79,7 @@ sections:
           - pr-4
         textAlign: left
     subtitle: subtitulo
+    title: Titulo
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
